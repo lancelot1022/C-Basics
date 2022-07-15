@@ -1,2 +1,2 @@
-# C-Basics
+# C#-Basics
 Magenic C# Basics Training for QE
