@@ -1,0 +1,173 @@
+[
+  {
+    "EmployeeID": 1,
+    "LastName": "Smith",
+    "FirstName": "John",
+    "MiddleName": "A",
+    "Gender": "M",
+    "Status": "Single",
+    "Position": "QE",
+    "EmpSalary": {
+      "MonthlyTaxablePay": 95000.0,
+      "MonthlyNonTaxablePay": 5000.0
+    },
+    "EmpTax": {
+      "IncomeTax": 19333.334,
+      "SocialSecurity": 3800.0,
+      "HealthInsurance": 3325.0,
+      "OtherTaxes": 3500.0
+    }
+  },
+  {
+    "EmployeeID": 2,
+    "LastName": "Knope",
+    "FirstName": "Leslie",
+    "MiddleName": "May",
+    "Gender": "F",
+    "Status": "Married",
+    "Position": "Senior Developer",
+    "EmpSalary": {
+      "MonthlyTaxablePay": 155650.0,
+      "MonthlyNonTaxablePay": 9000.0
+    },
+    "EmpTax": {
+      "IncomeTax": 37528.332,
+      "SocialSecurity": 6226.0,
+      "HealthInsurance": 5447.75,
+      "OtherTaxes": 6500.0
+    }
+  },
+  {
+    "EmployeeID": 3,
+    "LastName": "Swanson",
+    "FirstName": "Ron",
+    "MiddleName": "David",
+    "Gender": "M",
+    "Status": "Single",
+    "Position": "Project Manager",
+    "EmpSalary": {
+      "MonthlyTaxablePay": 188000.0,
+      "MonthlyNonTaxablePay": 25000.0
+    },
+    "EmpTax": {
+      "IncomeTax": 47660.0,
+      "SocialSecurity": 7520.0,
+      "HealthInsurance": 6580.0,
+      "OtherTaxes": 10999.0
+    }
+  },
+  {
+    "EmployeeID": 4,
+    "LastName": "Cooper",
+    "FirstName": "Sheldon",
+    "MiddleName": "A",
+    "Gender": "M",
+    "Status": "Single",
+    "Position": "Theoretical Physicist",
+    "EmpSalary": {
+      "MonthlyTaxablePay": 115000.0,
+      "MonthlyNonTaxablePay": 20000.0
+    },
+    "EmpTax": {
+      "IncomeTax": 25333.334,
+      "SocialSecurity": 4600.0,
+      "HealthInsurance": 4025.0,
+      "OtherTaxes": 6000.0
+    }
+  },
+  {
+    "EmployeeID": 5,
+    "LastName": "Fowler",
+    "FirstName": "Amy",
+    "MiddleName": "F",
+    "Gender": "F",
+    "Status": "Single",
+    "Position": "Dev Manager",
+    "EmpSalary": {
+      "MonthlyTaxablePay": 150000.0,
+      "MonthlyNonTaxablePay": 7500.0
+    },
+    "EmpTax": {
+      "IncomeTax": 35833.332,
+      "SocialSecurity": 6000.0,
+      "HealthInsurance": 5250.0,
+      "OtherTaxes": 10000.0
+    }
+  },
+  {
+    "EmployeeID": 7,
+    "LastName": "Rutherford",
+    "FirstName": "Cullen",
+    "MiddleName": "S",
+    "Gender": "M",
+    "Status": "Single",
+    "Position": "Senior QE",
+    "EmpSalary": {
+      "MonthlyTaxablePay": 195000.0,
+      "MonthlyNonTaxablePay": 25000.0
+    },
+    "EmpTax": {
+      "IncomeTax": 49900.0,
+      "SocialSecurity": 7800.0,
+      "HealthInsurance": 6825.0,
+      "OtherTaxes": 9500.0
+    }
+  },
+  {
+    "EmployeeID": 9,
+    "LastName": "Parker",
+    "FirstName": "Peter",
+    "MiddleName": "P",
+    "Gender": "M",
+    "Status": "Single",
+    "Position": "Associate Developer",
+    "EmpSalary": {
+      "MonthlyTaxablePay": 45000.0,
+      "MonthlyNonTaxablePay": 5500.0
+    },
+    "EmpTax": {
+      "IncomeTax": 5416.6665,
+      "SocialSecurity": 1800.0,
+      "HealthInsurance": 1575.0,
+      "OtherTaxes": 3690.9
+    }
+  },
+  {
+    "EmployeeID": 10,
+    "LastName": "Zoldic",
+    "FirstName": "Killua",
+    "MiddleName": "G",
+    "Gender": "M",
+    "Status": "Single",
+    "Position": "Associate QE",
+    "EmpSalary": {
+      "MonthlyTaxablePay": 40000.0,
+      "MonthlyNonTaxablePay": 5500.0
+    },
+    "EmpTax": {
+      "IncomeTax": 4166.6665,
+      "SocialSecurity": 1600.0,
+      "HealthInsurance": 1400.0,
+      "OtherTaxes": 4000.0
+    }
+  },
+  {
+    "EmployeeID": 11,
+    "LastName": "Cristiano",
+    "FirstName": "Ronaldo",
+    "MiddleName": "M",
+    "Gender": "M",
+    "Status": "Married",
+    "Position": "Mid Dev",
+    "EmpSalary": {
+      "MonthlyTaxablePay": 75000.0,
+      "MonthlyNonTaxablePay": 50000.0
+    },
+    "EmpTax": {
+      "IncomeTax": 13333.333,
+      "SocialSecurity": 3000.0,
+      "HealthInsurance": 2625.0,
+      "OtherTaxes": 9000.0
+    }
+  }
+]

@@ -1,0 +1,47 @@
+Employee Payroll App Documentation
+
+General Instructions:
+    1. Run program by entering: 'dot net run' in console and press 'Enter'.
+    2. Once Welcome message is displayed press 'Enter'.
+    3. Follow the Instructions indicated to access the app features.
+
+Features:
+1. Create / Add New Employee
+    - Input employee details based on the required field displayed then press 'Enter' to proceed to the next required field.
+    1.1 Salary details
+        - User should input monthly pay for both:
+            - Taxable Pay : Will be used in tax calculation
+            - Non-Taxable Pay : Exempted from tax calculation
+    1.2 Tax details
+        1.2.1 Taxes are predefined to the following additional taxes should be added in Other Taxes.
+            - Income Tax
+            - Social Security
+            - Health Insurance
+            - Other Taxes*
+        1.2.2 User is prompted to choose between manual and automatic tax calculation
+            - Manual : Tax rates are then required to be manually input by the user
+            - Automatic : Tax rates are based on the government (sample)
+2. Read/Display
+    - Display employee payslip in a predefined format
+    2.1 Display single employee payslip
+        - User should input Employee ID of the desired employee payslip to view
+        - App will prompt user to view another payslip
+    2.2 View all employee payslip
+        - Display all employee payslips
+3. Update/Modify
+    - Update includes employee, income and salary details. User should input employee ID to update and select which details to update.
+    3.1 Employee details
+        - Update employee details including name, status, position, etc.
+    3.2 Salary details
+        - When updating salary details, taxes will be recalculated.
+        User will be prompted if taxes should be calculated manually or automatically (see 1.2.2)
+    3.3 Tax details
+        - Since predefined taxes are calculated only other taxes will be allowed to be updated.
+4. Delete Employee
+    - User should input Employee ID of the employee to be deleted.
+
+App Limitations:
+    1. Exception Handling : Most exceptions are handled with the proper message but will end the application.
+                            User should rerun the application to perform another action.
+    2. Tax Limitations : Taxes are predefined therefore other employee taxes should be added under Other Taxes
+    3. Income Limitation : Similar to taxes, income are predefined to taxable and non-taxable only.
